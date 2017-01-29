@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 84f6f7ba2d0f70c449f97fe5cdf881f2
+timeCreated: 1485562867
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mButton: {fileID: 114000014086093758, guid: e4cfe1cfeab899547ad4e09b3ad4c53d,
+      type: 2}
+  - mPlayerTag: {fileID: 114000011100817774, guid: e4cfe1cfeab899547ad4e09b3ad4c53d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
